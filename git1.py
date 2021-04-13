@@ -1,3 +1,3 @@
 print("hi")
-print("manish")
-print("singh")
+print("nitish")
+print("kumar")
